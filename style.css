@@ -343,6 +343,10 @@ section {
   justify-content: space-around;
 }
 
+hr.solid {
+  border-top: 3px solid #bbb;
+}
+
 article {
   display: flex;
   width: 10rem;
